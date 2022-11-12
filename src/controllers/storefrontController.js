@@ -23,7 +23,8 @@ exports.addStorefront = () => {
       FooterMenuTwoTitle: "Information",
     },
     Footer: {
-      FooterCopyrightText: `Copyright © <a href="{{ store_url }}">{{ store_name }}</a> {{ year }}. All rights reserved.`,
+      //FooterCopyrightText: `Copyright © <a href="{{ store_url }}">{{ store_name }}</a> {{ year }}. All rights reserved.`,
+      FooterCopyrightText: `Copyright ©️ Shrijeeshringar All rights reserved`
     },
     Features: {
       SectionStatus: true,
